@@ -19,7 +19,7 @@
   ],
   "license": "BSD-2-Clause",
   "dependencies": {
-    "ws": "^1.0.0"
+    "uws": "^0.12.0"
   },
   "peerDependencies": {
     "express": "^4.0.0"
